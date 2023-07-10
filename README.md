@@ -1,7 +1,7 @@
 # Preview
-![qah](https://github.com/subandi123/bloxflip-rain-joiner/assets/74751653/45233665-1c83-4e1f-92da-95a368b068db)
-![as](https://github.com/subandi123/bloxflip-rain-joiner/assets/74751653/2d1713cb-dc04-40a6-a36b-9c8e6b3873f6)
-![z](https://github.com/subandi123/bloxflip-rain-joiner/assets/74751653/b4a1ff8a-42bb-4153-be9b-07223d3d1c55)
+![z](https://github.com/subandi123/Bloxflip-rain-joiner/assets/74751653/c30a7795-5a03-453d-915c-640be7ee1beb)
+![qah](https://github.com/subandi123/Bloxflip-rain-joiner/assets/74751653/ef0fff20-2caa-4559-a64c-58e5ab7a4b76)
+![as](https://github.com/subandi123/Bloxflip-rain-joiner/assets/74751653/5a5a23bb-f8b3-43f7-b061-cca4b5a5f6b9)
 
 # How Does It Work?
 1. Connect to Websocket1.
