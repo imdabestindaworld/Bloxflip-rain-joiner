@@ -1,7 +1,6 @@
 # Preview
-![z](https://github.com/subandi123/Bloxflip-rain-joiner/assets/74751653/c30a7795-5a03-453d-915c-640be7ee1beb)
-![qah](https://github.com/subandi123/Bloxflip-rain-joiner/assets/74751653/ef0fff20-2caa-4559-a64c-58e5ab7a4b76)
-![as](https://github.com/subandi123/Bloxflip-rain-joiner/assets/74751653/5a5a23bb-f8b3-43f7-b061-cca4b5a5f6b9)
+![as](https://github.com/subandi123/Bloxflip-rain-joiner/assets/74751653/62ee3056-b121-47c3-8d36-8259226204a9)
+
 
 # How Does It Work?
 1. Connect to Websocket1.
