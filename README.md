@@ -1,6 +1,5 @@
 # Preview
-![as](https://github.com/subandi123/Bloxflip-rain-joiner/assets/74751653/62ee3056-b121-47c3-8d36-8259226204a9)
-
+![ez](https://github.com/subandi123/Bloxflip-rain-joiner/assets/74751653/da63a4ef-f06c-4e40-ab5b-0b6d58165abe)
 
 # How Does It Work?
 1. Connect to Websocket1.
